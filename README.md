@@ -9,7 +9,8 @@ Este repositório foi desenvolvido como parte da atividade prática da disciplin
 > **Status:** Concluído 100%  
 > **Plataforma:** Microsoft Learn / GitHub  
 
-*(Cole aqui o print ou a imagem da sua badge de conclusão)*
+
+<img width="1346" height="623" alt="Captura de tela 2026-09-08 134718" src="https://github.com/user-attachments/assets/34e65e5e-b850-427f-b55e-17adc1c81b2c" />
 
 ---
 
