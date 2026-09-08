@@ -26,4 +26,4 @@ Este repositório foi desenvolvido como parte da atividade prática da disciplin
 ## 🌐 Conexão de Perfil Profissional
 
 - **LinkedIn:** www.linkedin.com/in/gustavo-thibes-ba65b6391
-- **Currículo:** [Cole aqui o link do seu currículo em PDF]
+  
